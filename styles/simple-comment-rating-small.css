@@ -1,0 +1,56 @@
+.simple-comment-rating {
+    padding: 0px;
+    margin: 0px;
+    display: block;
+}
+
+.simple-comment-rating .scr-button-image {
+    width: 15px;
+    height: 15px;
+    padding: 0px;
+    margin: 3px 5px 3px 0px;;  
+    vertical-align: middle;
+}
+
+.simple-comment-rating .scr-is-href {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.simple-comment-rating .scr-button, .scr-button-disabled {
+    height: 15px;
+    padding-left: 18px;
+    margin: 3px 5px 3px 0px; 
+    vertical-align: middle;
+    display: block;
+}
+
+.simple-comment-rating .scr-like {
+    background:  url(images/thumb_up.png) top left no-repeat;    
+    background-size: 15px 15px !important;
+    float: left;
+    margin-right: 10px;
+}
+
+.simple-comment-rating .scr-dislike {
+    background:  url(images/thumb_down.png) top left no-repeat;    
+    background-size: 20px 20px !important;
+    float: left;
+}
+
+.simple-comment-rating .scr-like-disabled {
+    background:  url(images/thumb_up_disabled.png) top left no-repeat !important;    
+    background-size: 15px 15px !important;
+    float: left;
+}
+
+.simple-comment-rating .scr-dislike-disabled {
+    background:  url(images/thumb_down_disabled.png) top left no-repeat !important;   
+    background-size: 15px 15px !important;
+    float: left;
+}
+
+.simple-comment-rating .scr-loading {
+    background:  url(images/ajax_load.gif) top left no-repeat !important;  
+    background-size: 15px 15px !important;
+}

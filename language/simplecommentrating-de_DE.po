@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-comment-rating\n"
+"POT-Creation-Date: 2012-10-18 15:37+0100\n"
+"PO-Revision-Date: 2012-10-18 15:44+0100\n"
+"Last-Translator: Stefan Helmer <mail@eracer.de>\n"
+"Language-Team: eracer.de <mail@eracer.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ..\\controller\\.\n"
+
+# Gefällt mir
+#: ../controller/CommentsController.php:32
+#: ../controller/CommentsController.php:35
+#: ..\controller\./CommentsController.php:32
+#: ..\controller\./CommentsController.php:35
+msgid "Like"
+msgstr "Gefällt mir"
+
+#: ../controller/CommentsController.php:33
+#: ../controller/CommentsController.php:36
+#: ..\controller\./CommentsController.php:33
+#: ..\controller\./CommentsController.php:36
+msgid "Dislike"
+msgstr "Gefällt mir nicht"
